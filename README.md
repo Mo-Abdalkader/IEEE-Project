@@ -1,2 +1,6 @@
 # IEEE-Project
-### It is a machine learning project
+### Machine learning project
+
+| Mohamed | Asmaa |
+| :- | -: |
+| Stretched | Gaussian |
